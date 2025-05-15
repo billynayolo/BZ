@@ -68,12 +68,12 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1
+║❒ *Ytube:* _
 ║❒ *Owner:* _https://wa.me/message/THZ3I25BYZM2E1_
 ║❒ *Repo:* _https://github.com/Charleskenya1/CHARLESKE_
-║❒ *WaGroup:* _https://chat.whatsapp.com/FF6YuOZTAVB6Lu65cnY5BN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j_
-║❒ *Plugins:* _https://github.com/Charleskenya1 
+║❒ *WaGroup:* _https://chat.whatsapp.com/HfWtwK3s1Cx84ubhGOH1U9_
+║❒ *WaChannel:* __
+║❒ *Plugins:* _https://github.com/BZ BK 
 ╚════════════════════════╝
 _____________________________________
 	
