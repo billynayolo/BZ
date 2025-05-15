@@ -84,7 +84,7 @@ Add this as fix.sh to your repo:
 
 bash
 #!/bin/bash
-# Fixes for CHARLESKE-XMD
+# Fixes for BZ BK
 
 # 1. Fix permissions
 chown -R $USER:$USER .
@@ -104,8 +104,8 @@ How Users Should Proceed
 New Users:
 
 bash
-git clone https://github.com/Charleskenya1/CHARLESKE-XMD
-cd CHARLESKE-XMD
+git clone https://github.com/Charleskenya1/BZ BK
+cd BZ BK
 bash fix.sh
 Existing Users:
 
