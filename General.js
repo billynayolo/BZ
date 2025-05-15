@@ -55,9 +55,9 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🚘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Charleske", numero: "254759626063" },
-      { nom: "᚛Ibrahim᚜", numero: "254710772666" },
-      { nom: "BELTAH TECH", numero: "254114141192" },
+      { nom: "Charleske", numero: "243890404213" },
+      { nom: "᚛Ibrahim᚜", numero: "242334254854" },
+      { nom: "BELTAH TECH", numero: "243854071555" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
