@@ -14,15 +14,15 @@
 <p align="center">
   <a href="https://github.com/charleske"><img title="Author" src="https://img.shields.io/badge/charleske-black?style=for-the-badge&logo=Github"></a> 
   <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Channel" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> 
-  <a href="https://wa.me/254759626063"><img title="Chat" src="https://img.shields.io/badge/CHAT US-neon?style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://wa.me/243890404213"><img title="Chat" src="https://img.shields.io/badge/CHAT US-neon?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
 <p align="center">
 <p align="center">
   <a href="https://github.com/charleskenya1?tab=followers"><img title="1000Followers" src="https://img.shields.io/github/followers/charleskenya1?label=Followers&style=social"></a>
-  <a href="https://github.com/charleskenya1/BMW-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/charleskenya1/BMW-MD?&style=social"></a>
-  <a href="https://github.com/charleske/BMW-MD/network/"><img title="Forks" src="https://img.shields.io/github/forks=/charleskenya1CHARLESKE/BMW-MD?style=social"></a>
-  <a href="https://github.com/charleskenya1/BMW-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/charleskenya1/BMW-MD?label=Watching&style=social"></a>
+  <a href="https://github.com/charleskenya1/BMW-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/charleskenya1/BZ BK?&style=social"></a>
+  <a href="https://github.com/charleske/BZ-BK/network/"><img title="Forks" src="https://img.shields.io/github/forks=/charleskenya1CHARLESKE/BZ BK?style=social"></a>
+  <a href="https://github.com/charleskenya1/BZ-BK/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/charleskenya1/BZ BK?label=Watching&style=social"></a>
 </p>
 
 ---
